@@ -1,2 +1,0 @@
-# nimas8
-man
